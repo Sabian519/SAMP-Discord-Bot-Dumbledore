@@ -15,14 +15,14 @@ var query = require('samp-query');
 //_____________________________[BOT Configuration]_________________________________________
 //@audit Settings
 
-const botChar = "/"; // Bot prefix character
-let Samp_IP = "51.178.138.254";
+const botChar = "."; // Bot prefix character
+let Samp_IP = "51.79.220.155";
 let Samp_Port = 7777;
-let Community_Tag ="WG";
+let Community_Tag ="ARP";
 
-let userToSubmitApplicationsTo = '710195458680684695';//Default Channel Id for User Applications
-let reportChannelID = '714432112031170562'; // Channel for the ingam reports
-let adminCmdsChannelID = '710195250911641741'; // Admin Cmds channel
+let userToSubmitApplicationsTo = '823832980098121728 Channel Id for User Applications
+let reportChannelID = '889026086673981480'; // Channel for the ingam reports
+let adminCmdsChannelID = '823832980098121728'; // Admin Cmds channel
 let Bot_debug_mode = false;
 
 //_______________________________[APPLICATIONS]______________________________________________
