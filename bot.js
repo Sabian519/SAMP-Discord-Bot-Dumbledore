@@ -20,7 +20,7 @@ let Samp_IP = "51.79.220.155";
 let Samp_Port = 7777;
 let Community_Tag ="ARP";
 
-let userToSubmitApplicationsTo = '823832980098121728 Channel Id for User Applications
+let userToSubmitApplicationsTo = '823832980098121728'; // Channel Id for User Applications
 let reportChannelID = '889026086673981480'; // Channel for the ingam reports
 let adminCmdsChannelID = '823832980098121728'; // Admin Cmds channel
 let Bot_debug_mode = false;
